@@ -205,6 +205,5 @@ todo-list/
 This project is licensed under the MIT License.
 
 
-deploymnet link 
+deploymnet link  https://rakshada5.netlify.app/
 
-rakshada5.netlify.app
